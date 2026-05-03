@@ -1,0 +1,754 @@
+ 13-12-2024 19:35:52:143 [pid=7898 tid=7898] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-12-2024 19:35:52:144 [pid=7898 tid=7898] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-12-2024 19:35:52:145 [pid=7898 tid=7898] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-12-2024 19:35:52:145 [pid=7898 tid=7898] NOTICE  cufio-drv:727 running in compatible mode
+ 13-12-2024 19:35:52:146 [pid=7898 tid=7898] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-12-2024 19:35:52:146 [pid=7898 tid=7898] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-12-2024 19:35:52:146 [pid=7898 tid=7898] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-12-2024 19:35:52:286 [pid=7898 tid=7898] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-12-2024 19:35:52:288 [pid=7898 tid=7898] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-12-2024 19:35:52:288 [pid=7898 tid=7898] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 21:17:05:404 [pid=1746 tid=1746] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 21:17:05:405 [pid=1746 tid=1746] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 21:17:05:406 [pid=1746 tid=1746] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 21:17:05:406 [pid=1746 tid=1746] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 21:17:05:406 [pid=1746 tid=1746] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 21:17:05:406 [pid=1746 tid=1746] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 21:17:05:406 [pid=1746 tid=1746] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 21:17:05:567 [pid=1746 tid=1746] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 21:17:05:569 [pid=1746 tid=1746] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 21:17:05:570 [pid=1746 tid=1746] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 21:32:46:712 [pid=6262 tid=6262] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 21:32:46:714 [pid=6262 tid=6262] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 21:32:46:714 [pid=6262 tid=6262] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 21:32:46:714 [pid=6262 tid=6262] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 21:32:46:714 [pid=6262 tid=6262] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 21:32:46:715 [pid=6262 tid=6262] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 21:32:46:715 [pid=6262 tid=6262] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 21:32:46:962 [pid=6262 tid=6262] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 21:32:46:963 [pid=6262 tid=6262] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 21:32:46:964 [pid=6262 tid=6262] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 22:15:31:780 [pid=14636 tid=14636] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 22:15:31:783 [pid=14636 tid=14636] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 22:15:31:786 [pid=14636 tid=14636] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 22:15:31:786 [pid=14636 tid=14636] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 22:15:31:787 [pid=14636 tid=14636] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 22:15:31:788 [pid=14636 tid=14636] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 22:15:31:790 [pid=14636 tid=14636] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 22:15:32:80 [pid=14636 tid=14636] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 22:15:32:81 [pid=14636 tid=14636] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 22:15:32:81 [pid=14636 tid=14636] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 22:26:05:572 [pid=16719 tid=16719] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 22:26:05:759 [pid=16719 tid=16719] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 22:26:05:760 [pid=16719 tid=16719] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 22:26:05:760 [pid=16719 tid=16719] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 22:33:53:635 [pid=18281 tid=18281] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 22:33:53:867 [pid=18281 tid=18281] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 22:33:53:868 [pid=18281 tid=18281] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 22:33:53:869 [pid=18281 tid=18281] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 22:35:08:109 [pid=18618 tid=18618] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 22:35:08:276 [pid=18618 tid=18618] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 22:35:08:277 [pid=18618 tid=18618] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 22:35:08:277 [pid=18618 tid=18618] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 22:39:10:880 [pid=19629 tid=19629] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 22:39:10:881 [pid=19629 tid=19629] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 22:39:11:44 [pid=19629 tid=19629] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 22:39:11:45 [pid=19629 tid=19629] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 22:39:11:45 [pid=19629 tid=19629] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 11-07-2025 23:29:01:235 [pid=29372 tid=29372] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 11-07-2025 23:29:01:236 [pid=29372 tid=29372] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 11-07-2025 23:29:01:237 [pid=29372 tid=29372] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 11-07-2025 23:29:01:237 [pid=29372 tid=29372] NOTICE  cufio-drv:727 running in compatible mode
+ 11-07-2025 23:29:01:237 [pid=29372 tid=29372] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 11-07-2025 23:29:01:238 [pid=29372 tid=29372] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 11-07-2025 23:29:01:239 [pid=29372 tid=29372] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 11-07-2025 23:29:01:525 [pid=29372 tid=29372] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 11-07-2025 23:29:01:528 [pid=29372 tid=29372] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 11-07-2025 23:29:01:529 [pid=29372 tid=29372] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 00:26:27:185 [pid=41429 tid=41429] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 00:26:27:186 [pid=41429 tid=41429] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 00:26:27:186 [pid=41429 tid=41429] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 00:26:27:186 [pid=41429 tid=41429] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 00:26:27:186 [pid=41429 tid=41429] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 00:26:27:187 [pid=41429 tid=41429] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 00:26:27:188 [pid=41429 tid=41429] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 00:26:27:422 [pid=41429 tid=41429] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 00:26:27:426 [pid=41429 tid=41429] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 00:26:27:426 [pid=41429 tid=41429] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 00:36:06:419 [pid=43468 tid=43468] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 00:36:06:419 [pid=43468 tid=43468] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 00:36:06:419 [pid=43468 tid=43468] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 00:36:06:419 [pid=43468 tid=43468] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 00:36:06:420 [pid=43468 tid=43468] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 00:36:06:420 [pid=43468 tid=43468] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 00:36:06:420 [pid=43468 tid=43468] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 00:36:06:701 [pid=43468 tid=43468] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 00:36:06:703 [pid=43468 tid=43468] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 00:36:06:703 [pid=43468 tid=43468] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:09:21:615 [pid=62273 tid=62273] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:09:21:616 [pid=62273 tid=62273] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:09:21:617 [pid=62273 tid=62273] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:09:21:617 [pid=62273 tid=62273] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:09:21:618 [pid=62273 tid=62273] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:09:21:619 [pid=62273 tid=62273] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:09:21:620 [pid=62273 tid=62273] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:09:21:885 [pid=62273 tid=62273] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:09:21:888 [pid=62273 tid=62273] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:09:21:888 [pid=62273 tid=62273] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:32:31:996 [pid=66734 tid=66734] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:32:32:4 [pid=66734 tid=66734] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:32:32:6 [pid=66734 tid=66734] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:32:32:6 [pid=66734 tid=66734] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:32:32:12 [pid=66734 tid=66734] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:32:32:15 [pid=66734 tid=66734] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:32:32:19 [pid=66734 tid=66734] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:32:32:416 [pid=66734 tid=66734] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:32:32:418 [pid=66734 tid=66734] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:32:32:418 [pid=66734 tid=66734] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:36:25:489 [pid=67528 tid=67528] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:36:25:489 [pid=67528 tid=67528] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:36:25:490 [pid=67528 tid=67528] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:36:25:490 [pid=67528 tid=67528] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:36:25:491 [pid=67528 tid=67528] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:36:25:491 [pid=67528 tid=67528] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:36:25:493 [pid=67528 tid=67528] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:36:25:852 [pid=67528 tid=67528] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:36:25:856 [pid=67528 tid=67528] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:36:25:856 [pid=67528 tid=67528] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:37:45:54 [pid=67756 tid=67756] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:37:45:54 [pid=67756 tid=67756] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:37:45:55 [pid=67756 tid=67756] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:37:45:55 [pid=67756 tid=67756] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:37:45:56 [pid=67756 tid=67756] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:37:45:58 [pid=67756 tid=67756] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:37:45:59 [pid=67756 tid=67756] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:37:45:475 [pid=67756 tid=67756] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:37:45:479 [pid=67756 tid=67756] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:37:45:479 [pid=67756 tid=67756] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:39:17:630 [pid=68236 tid=68236] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:39:17:630 [pid=68236 tid=68236] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:39:17:630 [pid=68236 tid=68236] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:39:17:630 [pid=68236 tid=68236] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:39:17:630 [pid=68236 tid=68236] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:39:17:631 [pid=68236 tid=68236] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:39:17:631 [pid=68236 tid=68236] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:39:17:800 [pid=68236 tid=68236] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:39:17:802 [pid=68236 tid=68236] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:39:17:802 [pid=68236 tid=68236] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:41:00:662 [pid=68563 tid=68563] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:41:00:662 [pid=68563 tid=68563] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:41:00:662 [pid=68563 tid=68563] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:41:00:662 [pid=68563 tid=68563] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:41:00:662 [pid=68563 tid=68563] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:41:00:663 [pid=68563 tid=68563] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:41:00:663 [pid=68563 tid=68563] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:41:00:880 [pid=68563 tid=68563] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:41:00:882 [pid=68563 tid=68563] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:41:00:882 [pid=68563 tid=68563] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:45:25:928 [pid=68919 tid=68919] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:45:26:40 [pid=68919 tid=68919] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:45:26:40 [pid=68919 tid=68919] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:45:26:40 [pid=68919 tid=68919] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:45:26:42 [pid=68919 tid=68919] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:45:26:43 [pid=68919 tid=68919] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:45:26:45 [pid=68919 tid=68919] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:45:26:279 [pid=68919 tid=68919] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:45:26:281 [pid=68919 tid=68919] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:45:26:281 [pid=68919 tid=68919] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 02:51:52:362 [pid=70794 tid=70794] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 02:51:52:362 [pid=70794 tid=70794] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 02:51:52:363 [pid=70794 tid=70794] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 02:51:52:363 [pid=70794 tid=70794] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 02:51:52:363 [pid=70794 tid=70794] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 02:51:52:363 [pid=70794 tid=70794] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 02:51:52:364 [pid=70794 tid=70794] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 02:51:52:645 [pid=70794 tid=70794] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 02:51:52:650 [pid=70794 tid=70794] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 02:51:52:650 [pid=70794 tid=70794] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 03:01:16:627 [pid=72655 tid=72655] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 03:01:16:628 [pid=72655 tid=72655] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 03:01:16:628 [pid=72655 tid=72655] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 03:01:16:628 [pid=72655 tid=72655] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 03:01:16:629 [pid=72655 tid=72655] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 03:01:16:630 [pid=72655 tid=72655] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 03:01:16:631 [pid=72655 tid=72655] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 03:01:17:126 [pid=72655 tid=72655] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 03:01:17:137 [pid=72655 tid=72655] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 03:01:17:137 [pid=72655 tid=72655] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 18:03:05:441 [pid=3365 tid=3365] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 18:03:05:446 [pid=3365 tid=3365] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 18:03:05:451 [pid=3365 tid=3365] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 18:03:05:451 [pid=3365 tid=3365] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 18:03:05:454 [pid=3365 tid=3365] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 18:03:05:454 [pid=3365 tid=3365] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 18:03:05:457 [pid=3365 tid=3365] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 18:03:05:741 [pid=3365 tid=3365] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 18:03:05:743 [pid=3365 tid=3365] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 18:03:05:743 [pid=3365 tid=3365] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 18:10:49:125 [pid=4569 tid=4569] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 18:10:49:125 [pid=4569 tid=4569] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 18:10:49:126 [pid=4569 tid=4569] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 18:10:49:126 [pid=4569 tid=4569] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 18:10:49:126 [pid=4569 tid=4569] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 18:10:49:126 [pid=4569 tid=4569] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 18:10:49:126 [pid=4569 tid=4569] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 18:10:49:339 [pid=4569 tid=4569] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 18:10:49:340 [pid=4569 tid=4569] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 18:10:49:340 [pid=4569 tid=4569] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 18:58:00:399 [pid=11204 tid=11204] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 18:58:00:404 [pid=11204 tid=11204] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 18:58:00:406 [pid=11204 tid=11204] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 18:58:00:407 [pid=11204 tid=11204] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 18:58:00:408 [pid=11204 tid=11204] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 18:58:00:410 [pid=11204 tid=11204] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 18:58:00:412 [pid=11204 tid=11204] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 18:58:00:733 [pid=11204 tid=11204] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 18:58:00:734 [pid=11204 tid=11204] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 18:58:00:734 [pid=11204 tid=11204] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 19:05:30:337 [pid=12475 tid=12475] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 19:05:30:337 [pid=12475 tid=12475] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 19:05:30:337 [pid=12475 tid=12475] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 19:05:30:337 [pid=12475 tid=12475] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 19:05:30:338 [pid=12475 tid=12475] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 19:05:30:338 [pid=12475 tid=12475] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 19:05:30:338 [pid=12475 tid=12475] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 19:05:30:448 [pid=12475 tid=12475] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 19:05:30:450 [pid=12475 tid=12475] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 19:05:30:450 [pid=12475 tid=12475] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 19:26:53:826 [pid=15881 tid=15881] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 19:26:53:827 [pid=15881 tid=15881] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 19:26:53:828 [pid=15881 tid=15881] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 19:26:53:828 [pid=15881 tid=15881] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 19:26:53:828 [pid=15881 tid=15881] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 19:26:53:828 [pid=15881 tid=15881] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 19:26:53:828 [pid=15881 tid=15881] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 19:26:53:944 [pid=15881 tid=15881] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 19:26:53:945 [pid=15881 tid=15881] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 19:26:53:945 [pid=15881 tid=15881] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 12-07-2025 19:31:27:960 [pid=16729 tid=16729] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 12-07-2025 19:31:27:960 [pid=16729 tid=16729] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 12-07-2025 19:31:27:960 [pid=16729 tid=16729] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 12-07-2025 19:31:27:960 [pid=16729 tid=16729] NOTICE  cufio-drv:727 running in compatible mode
+ 12-07-2025 19:31:27:960 [pid=16729 tid=16729] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 12-07-2025 19:31:27:961 [pid=16729 tid=16729] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 12-07-2025 19:31:27:961 [pid=16729 tid=16729] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 12-07-2025 19:31:28:64 [pid=16729 tid=16729] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 12-07-2025 19:31:28:65 [pid=16729 tid=16729] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 12-07-2025 19:31:28:65 [pid=16729 tid=16729] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:04:52:673 [pid=1153 tid=1153] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:04:52:675 [pid=1153 tid=1153] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:04:52:675 [pid=1153 tid=1153] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:04:52:676 [pid=1153 tid=1153] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:04:52:676 [pid=1153 tid=1153] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:04:52:676 [pid=1153 tid=1153] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:04:52:677 [pid=1153 tid=1153] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:04:52:822 [pid=1153 tid=1153] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:04:52:823 [pid=1153 tid=1153] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:04:52:824 [pid=1153 tid=1153] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:44:20:24 [pid=11210 tid=11210] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:44:20:25 [pid=11210 tid=11210] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:44:20:27 [pid=11210 tid=11210] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:44:20:27 [pid=11210 tid=11210] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:44:20:28 [pid=11210 tid=11210] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:44:20:28 [pid=11210 tid=11210] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:44:20:29 [pid=11210 tid=11210] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:44:20:168 [pid=11210 tid=11210] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:44:20:170 [pid=11210 tid=11210] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:44:20:170 [pid=11210 tid=11210] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:45:08:635 [pid=11432 tid=11432] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:45:08:635 [pid=11432 tid=11432] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:45:08:635 [pid=11432 tid=11432] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:45:08:635 [pid=11432 tid=11432] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:45:08:636 [pid=11432 tid=11432] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:45:08:636 [pid=11432 tid=11432] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:45:08:636 [pid=11432 tid=11432] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:45:08:726 [pid=11432 tid=11432] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:45:08:728 [pid=11432 tid=11432] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:45:08:728 [pid=11432 tid=11432] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:46:42:135 [pid=11795 tid=11795] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:46:42:136 [pid=11795 tid=11795] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:46:42:237 [pid=11795 tid=11795] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:46:42:238 [pid=11795 tid=11795] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:46:42:238 [pid=11795 tid=11795] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:48:19:425 [pid=12147 tid=12147] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:48:19:426 [pid=12147 tid=12147] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:48:19:525 [pid=12147 tid=12147] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:48:19:526 [pid=12147 tid=12147] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:48:19:526 [pid=12147 tid=12147] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:55:09:704 [pid=13499 tid=13499] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:55:09:705 [pid=13499 tid=13499] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:55:09:835 [pid=13499 tid=13499] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:55:09:838 [pid=13499 tid=13499] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:55:09:839 [pid=13499 tid=13499] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 02:59:04:19 [pid=14306 tid=14306] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 02:59:04:19 [pid=14306 tid=14306] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 02:59:04:19 [pid=14306 tid=14306] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 02:59:04:19 [pid=14306 tid=14306] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 02:59:04:19 [pid=14306 tid=14306] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 02:59:04:20 [pid=14306 tid=14306] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 02:59:04:20 [pid=14306 tid=14306] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 02:59:04:120 [pid=14306 tid=14306] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 02:59:04:121 [pid=14306 tid=14306] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 02:59:04:121 [pid=14306 tid=14306] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 03:00:12:903 [pid=14574 tid=14574] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 03:00:12:998 [pid=14574 tid=14574] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 03:00:12:999 [pid=14574 tid=14574] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 03:00:12:999 [pid=14574 tid=14574] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 03:45:42:61 [pid=23047 tid=23047] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 03:45:42:62 [pid=23047 tid=23047] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 03:45:42:62 [pid=23047 tid=23047] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 03:45:42:62 [pid=23047 tid=23047] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 03:45:42:62 [pid=23047 tid=23047] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 03:45:42:62 [pid=23047 tid=23047] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 03:45:42:63 [pid=23047 tid=23047] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 03:45:42:305 [pid=23047 tid=23047] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 03:45:42:310 [pid=23047 tid=23047] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 03:45:42:310 [pid=23047 tid=23047] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 03:47:46:425 [pid=23479 tid=23479] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 03:47:46:531 [pid=23479 tid=23479] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 03:47:46:532 [pid=23479 tid=23479] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 03:47:46:532 [pid=23479 tid=23479] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 04:39:17:410 [pid=33394 tid=33394] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 04:39:17:412 [pid=33394 tid=33394] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 04:39:17:412 [pid=33394 tid=33394] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 04:39:17:412 [pid=33394 tid=33394] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 04:39:17:412 [pid=33394 tid=33394] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 04:39:17:413 [pid=33394 tid=33394] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 04:39:17:413 [pid=33394 tid=33394] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 04:39:17:617 [pid=33394 tid=33394] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 04:39:17:627 [pid=33394 tid=33394] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 04:39:17:627 [pid=33394 tid=33394] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 04:39:43:220 [pid=33565 tid=33565] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 04:39:43:220 [pid=33565 tid=33565] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 04:39:43:221 [pid=33565 tid=33565] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 04:39:43:221 [pid=33565 tid=33565] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 04:39:43:221 [pid=33565 tid=33565] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 04:39:43:221 [pid=33565 tid=33565] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 04:39:43:221 [pid=33565 tid=33565] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 04:39:43:325 [pid=33565 tid=33565] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 04:39:43:326 [pid=33565 tid=33565] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 04:39:43:326 [pid=33565 tid=33565] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 04:44:06:749 [pid=34453 tid=34453] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 04:44:06:749 [pid=34453 tid=34453] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 04:44:06:749 [pid=34453 tid=34453] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 04:44:06:749 [pid=34453 tid=34453] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 04:44:06:750 [pid=34453 tid=34453] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 04:44:06:750 [pid=34453 tid=34453] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 04:44:06:750 [pid=34453 tid=34453] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 04:44:06:922 [pid=34453 tid=34453] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 04:44:06:924 [pid=34453 tid=34453] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 04:44:06:924 [pid=34453 tid=34453] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 04:45:12:222 [pid=34722 tid=34722] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 04:45:12:329 [pid=34722 tid=34722] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 04:45:12:331 [pid=34722 tid=34722] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 04:45:12:331 [pid=34722 tid=34722] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 20:28:28:198 [pid=212533 tid=212533] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 20:28:28:200 [pid=212533 tid=212533] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 20:28:28:200 [pid=212533 tid=212533] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 20:28:28:200 [pid=212533 tid=212533] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 20:28:28:201 [pid=212533 tid=212533] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 20:28:28:201 [pid=212533 tid=212533] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 20:28:28:201 [pid=212533 tid=212533] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 20:28:28:394 [pid=212533 tid=212533] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 20:28:28:397 [pid=212533 tid=212533] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 20:28:28:397 [pid=212533 tid=212533] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 20:30:55:81 [pid=213095 tid=213095] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 20:30:55:82 [pid=213095 tid=213095] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 20:30:55:211 [pid=213095 tid=213095] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 20:30:55:212 [pid=213095 tid=213095] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 20:30:55:212 [pid=213095 tid=213095] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 20:41:58:829 [pid=215526 tid=215526] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 20:41:58:829 [pid=215526 tid=215526] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 20:41:58:829 [pid=215526 tid=215526] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 20:41:58:829 [pid=215526 tid=215526] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 20:41:58:831 [pid=215526 tid=215526] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 20:41:58:831 [pid=215526 tid=215526] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 20:41:58:832 [pid=215526 tid=215526] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 20:41:59:70 [pid=215526 tid=215526] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 20:41:59:71 [pid=215526 tid=215526] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 20:41:59:71 [pid=215526 tid=215526] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 22:18:30:738 [pid=1691 tid=1691] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 22:18:30:739 [pid=1691 tid=1691] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 22:18:30:742 [pid=1691 tid=1691] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 22:18:30:742 [pid=1691 tid=1691] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 22:18:30:743 [pid=1691 tid=1691] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 22:18:30:743 [pid=1691 tid=1691] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 22:18:30:745 [pid=1691 tid=1691] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 22:18:30:959 [pid=1691 tid=1691] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 22:18:30:963 [pid=1691 tid=1691] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 22:18:30:963 [pid=1691 tid=1691] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 22:22:38:868 [pid=2948 tid=2948] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 22:22:38:961 [pid=2948 tid=2948] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 22:22:38:961 [pid=2948 tid=2948] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 22:22:38:961 [pid=2948 tid=2948] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 22:30:37:490 [pid=4802 tid=4802] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 22:30:37:587 [pid=4802 tid=4802] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 22:30:37:587 [pid=4802 tid=4802] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 22:30:37:587 [pid=4802 tid=4802] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 23:07:42:701 [pid=18058 tid=18058] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 23:07:42:703 [pid=18058 tid=18058] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 23:07:42:703 [pid=18058 tid=18058] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 23:07:42:703 [pid=18058 tid=18058] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 23:07:42:704 [pid=18058 tid=18058] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 23:07:42:704 [pid=18058 tid=18058] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 23:07:42:706 [pid=18058 tid=18058] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 23:07:42:875 [pid=18058 tid=18058] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 23:07:42:882 [pid=18058 tid=18058] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 23:07:42:882 [pid=18058 tid=18058] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 23:34:40:165 [pid=29877 tid=29877] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 23:34:40:165 [pid=29877 tid=29877] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 23:34:40:166 [pid=29877 tid=29877] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 23:34:40:166 [pid=29877 tid=29877] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 23:34:40:166 [pid=29877 tid=29877] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 23:34:40:166 [pid=29877 tid=29877] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 23:34:40:167 [pid=29877 tid=29877] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 23:34:40:324 [pid=29877 tid=29877] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 23:34:40:326 [pid=29877 tid=29877] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 23:34:40:326 [pid=29877 tid=29877] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 13-07-2025 23:53:27:34 [pid=35647 tid=35647] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-07-2025 23:53:27:36 [pid=35647 tid=35647] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-07-2025 23:53:27:36 [pid=35647 tid=35647] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-07-2025 23:53:27:36 [pid=35647 tid=35647] NOTICE  cufio-drv:727 running in compatible mode
+ 13-07-2025 23:53:27:36 [pid=35647 tid=35647] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-07-2025 23:53:27:36 [pid=35647 tid=35647] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 13-07-2025 23:53:27:38 [pid=35647 tid=35647] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 13-07-2025 23:53:27:162 [pid=35647 tid=35647] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-07-2025 23:53:27:163 [pid=35647 tid=35647] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 13-07-2025 23:53:27:163 [pid=35647 tid=35647] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 14-07-2025 00:09:12:284 [pid=41094 tid=41094] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 14-07-2025 00:09:12:284 [pid=41094 tid=41094] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 14-07-2025 00:09:12:284 [pid=41094 tid=41094] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 14-07-2025 00:09:12:284 [pid=41094 tid=41094] NOTICE  cufio-drv:727 running in compatible mode
+ 14-07-2025 00:09:12:285 [pid=41094 tid=41094] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 14-07-2025 00:09:12:285 [pid=41094 tid=41094] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 14-07-2025 00:09:12:285 [pid=41094 tid=41094] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 14-07-2025 00:09:12:471 [pid=41094 tid=41094] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 14-07-2025 00:09:12:472 [pid=41094 tid=41094] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 14-07-2025 00:09:12:472 [pid=41094 tid=41094] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 14-07-2025 23:24:59:532 [pid=279049 tid=279049] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 14-07-2025 23:24:59:534 [pid=279049 tid=279049] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 14-07-2025 23:24:59:536 [pid=279049 tid=279049] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 14-07-2025 23:24:59:536 [pid=279049 tid=279049] NOTICE  cufio-drv:727 running in compatible mode
+ 14-07-2025 23:24:59:537 [pid=279049 tid=279049] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 14-07-2025 23:24:59:537 [pid=279049 tid=279049] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 14-07-2025 23:24:59:542 [pid=279049 tid=279049] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 14-07-2025 23:24:59:845 [pid=279049 tid=279049] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 14-07-2025 23:24:59:853 [pid=279049 tid=279049] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 14-07-2025 23:24:59:853 [pid=279049 tid=279049] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 18-07-2025 03:57:43:894 [pid=1611 tid=1611] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 18-07-2025 03:57:43:896 [pid=1611 tid=1611] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 18-07-2025 03:57:43:898 [pid=1611 tid=1611] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 18-07-2025 03:57:43:898 [pid=1611 tid=1611] NOTICE  cufio-drv:727 running in compatible mode
+ 18-07-2025 03:57:43:899 [pid=1611 tid=1611] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 18-07-2025 03:57:43:899 [pid=1611 tid=1611] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 18-07-2025 03:57:43:904 [pid=1611 tid=1611] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 18-07-2025 03:57:44:323 [pid=1611 tid=1611] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 18-07-2025 03:57:44:328 [pid=1611 tid=1611] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 18-07-2025 03:57:44:328 [pid=1611 tid=1611] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 18-07-2025 06:50:26:426 [pid=73488 tid=73488] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 18-07-2025 06:50:26:429 [pid=73488 tid=73488] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 18-07-2025 06:50:26:432 [pid=73488 tid=73488] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 18-07-2025 06:50:26:432 [pid=73488 tid=73488] NOTICE  cufio-drv:727 running in compatible mode
+ 18-07-2025 06:50:26:436 [pid=73488 tid=73488] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 18-07-2025 06:50:26:437 [pid=73488 tid=73488] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 18-07-2025 06:50:26:440 [pid=73488 tid=73488] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 18-07-2025 06:50:26:690 [pid=73488 tid=73488] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 18-07-2025 06:50:26:694 [pid=73488 tid=73488] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 18-07-2025 06:50:26:694 [pid=73488 tid=73488] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 18-07-2025 19:35:53:913 [pid=2608 tid=2608] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 18-07-2025 19:35:53:916 [pid=2608 tid=2608] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 18-07-2025 19:35:53:917 [pid=2608 tid=2608] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 18-07-2025 19:35:53:917 [pid=2608 tid=2608] NOTICE  cufio-drv:727 running in compatible mode
+ 18-07-2025 19:35:53:917 [pid=2608 tid=2608] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 18-07-2025 19:35:53:918 [pid=2608 tid=2608] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 18-07-2025 19:35:53:918 [pid=2608 tid=2608] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 18-07-2025 19:35:54:98 [pid=2608 tid=2608] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 18-07-2025 19:35:54:100 [pid=2608 tid=2608] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 18-07-2025 19:35:54:100 [pid=2608 tid=2608] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 18-07-2025 23:43:09:716 [pid=79862 tid=79862] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 18-07-2025 23:43:09:718 [pid=79862 tid=79862] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 18-07-2025 23:43:09:719 [pid=79862 tid=79862] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 18-07-2025 23:43:09:719 [pid=79862 tid=79862] NOTICE  cufio-drv:727 running in compatible mode
+ 18-07-2025 23:43:09:721 [pid=79862 tid=79862] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 18-07-2025 23:43:09:721 [pid=79862 tid=79862] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 18-07-2025 23:43:09:722 [pid=79862 tid=79862] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 18-07-2025 23:43:09:942 [pid=79862 tid=79862] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 18-07-2025 23:43:09:944 [pid=79862 tid=79862] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 18-07-2025 23:43:09:944 [pid=79862 tid=79862] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 22-07-2025 08:33:01:950 [pid=1418 tid=1418] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 22-07-2025 08:33:01:951 [pid=1418 tid=1418] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 22-07-2025 08:33:01:952 [pid=1418 tid=1418] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 22-07-2025 08:33:01:952 [pid=1418 tid=1418] NOTICE  cufio-drv:727 running in compatible mode
+ 22-07-2025 08:33:01:953 [pid=1418 tid=1418] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 22-07-2025 08:33:01:953 [pid=1418 tid=1418] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 22-07-2025 08:33:01:953 [pid=1418 tid=1418] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 22-07-2025 08:33:02:151 [pid=1418 tid=1418] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 22-07-2025 08:33:02:153 [pid=1418 tid=1418] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 22-07-2025 08:33:02:153 [pid=1418 tid=1418] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 24-07-2025 09:59:45:159 [pid=1364 tid=1364] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-07-2025 09:59:45:160 [pid=1364 tid=1364] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-07-2025 09:59:45:161 [pid=1364 tid=1364] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-07-2025 09:59:45:161 [pid=1364 tid=1364] NOTICE  cufio-drv:727 running in compatible mode
+ 24-07-2025 09:59:45:162 [pid=1364 tid=1364] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-07-2025 09:59:45:162 [pid=1364 tid=1364] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 24-07-2025 09:59:45:162 [pid=1364 tid=1364] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-07-2025 09:59:45:361 [pid=1364 tid=1364] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 24-07-2025 09:59:45:367 [pid=1364 tid=1364] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 24-07-2025 09:59:45:367 [pid=1364 tid=1364] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
+ 24-07-2025 10:01:29:679 [pid=2762 tid=2762] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-07-2025 10:01:29:679 [pid=2762 tid=2762] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-07-2025 10:01:29:679 [pid=2762 tid=2762] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-07-2025 10:01:29:680 [pid=2762 tid=2762] NOTICE  cufio-drv:727 running in compatible mode
+ 24-07-2025 10:01:29:680 [pid=2762 tid=2762] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-07-2025 10:01:29:680 [pid=2762 tid=2762] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4050 Laptop GPU: Model Not Supported
+ 24-07-2025 10:01:29:680 [pid=2762 tid=2762] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-07-2025 10:01:29:877 [pid=2762 tid=2762] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 24-07-2025 10:01:29:878 [pid=2762 tid=2762] ERROR  0:140 unable to load,  libnuma.so.1.0.0 
+
+ 24-07-2025 10:01:29:878 [pid=2762 tid=2762] ERROR  0:98 dlopen error libnuma.so.1.0.0: cannot open shared object file: No such file or directory
