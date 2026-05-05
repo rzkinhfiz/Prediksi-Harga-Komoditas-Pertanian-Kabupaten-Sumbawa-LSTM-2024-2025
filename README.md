@@ -34,7 +34,7 @@ conda create -n modelpredict -c rapidsai -c conda-forge -c nvidia \
 conda activate modelpredict
 ```
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Library yang Digunakan
 **Bahasa Pemrograman:** Python
 **Library Utama:**
 * TensorFlow / Keras (Pembangunan model LSTM)
