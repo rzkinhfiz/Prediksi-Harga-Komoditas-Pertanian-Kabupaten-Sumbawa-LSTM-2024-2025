@@ -36,6 +36,7 @@ conda activate modelpredict
 
 ## 🛠️ Library yang Digunakan
 **Bahasa Pemrograman:** Python
+
 **Library Utama:**
 * TensorFlow / Keras (Pembangunan model LSTM)
 * Pandas & NumPy (Manipulasi data)
